@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable called name and we let the value of that eqaul "dane"
+// then we ask if the variable "name" is an exact match to the value "mary" 
+// if the variable "name" is an exact match to the value "mary" the console will log "Hi Mary!" if it's not an exact match the console will log "How do you do ?"
+// in this case, the variable "name" is not equal to the value of "Mary" so the console will ready "How do you do?"
 
 //CODE
 /*
