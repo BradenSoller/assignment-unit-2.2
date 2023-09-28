@@ -29,7 +29,7 @@ if (number >= 2) {
 // we make a variable called name and we let the value of that eqaul "dane"
 // then we ask if the variable "name" is an exact match to the value "mary" 
 // if the variable "name" is an exact match to the value "mary" the console will log "Hi Mary!" if it's not an exact match the console will log "How do you do ?"
-// in this case, the variable "name" is not equal to the value of "Mary" so the console will ready "How do you do?"
+// in this case, the variable "name" is not equal to the value of "Mary" so the console will read "How do you do?"
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// let the value of secret be undefined (blank) and let the value of code be "123"
+// if the variable "code" is exactly equal to the value "123" which it is, the value "secret" now equals "super"
+// the value of "code" is then multiplied by 2 obtaining the new value of "246". It is now asking if the value "code" is greater than 250 which it is not so "secret" wont equal "duper" it will still equal "super"
+// console logging "secret" will show its value which is "super" in black letters with it's file location on the right side, with the line of code where you console logged secret.
 
 //CODE
 /*
