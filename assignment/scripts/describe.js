@@ -148,7 +148,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+//FIX the desription says 'and' meaning both sides must be true but the double || equals "or" meaning only one side needs be true for console to log 'throw away food!'
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -162,6 +162,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+//FIX - console wont log 'enter' because the first statement was true so console will log 'no entry'.
 if(minAge <= age) {
   console.log('no entry');
 } else {
