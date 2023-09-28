@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// let variable isStudent equal true,let the variable age equal 34, and let the variable zip equal 55407
+// if isStudent is equal to true and zip is greater than 80000 console will log 'Your'e a student on the West Coast' 
+// If isStudent is eqaul to false or age is less than 30 console will log 'What are your hobbies'
+// If isStudent is equal to true console will log 'Welcome to prime' else if not true it will log 'How about the weather ?' whoch in this case this is the only variable that is true, so console will log 'Welcome to Prime!'
 
 //CODE
 /*
